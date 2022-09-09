@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'f70f59361d016e600d4e4c39a43842fa42b1209c',
         'name' => 'ambulcao/ecommerce',
         'dev' => true,
     ),
     'versions' => array(
         'ambulcao/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'f70f59361d016e600d4e4c39a43842fa42b1209c',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
